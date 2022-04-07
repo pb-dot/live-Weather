@@ -1,4 +1,4 @@
-require("dotenv").config
+require("dotenv").config();
 const e = require("express");
 const bp = require("body-parser");
 const https =require("https");
